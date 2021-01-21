@@ -6,6 +6,4 @@ This is a simple readme file
 
 ## Heading 2
 
-
-This is bound to cause trouble!
-
+Just some updates, on a branch 
